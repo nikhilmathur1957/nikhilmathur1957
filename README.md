@@ -33,5 +33,3 @@ Key highlights of my profile include:<br>
 ✔ Proven client collaboration experience ensuring projects are delivered on time and meet expectations.
 
 My approach is detail-oriented, reliable, and focused on delivering cost-effective, high-quality solutions tailored to client needs.
-
-I’m confident that my combination of technical skills, project experience, and collaborative work style will allow me to add real value to your project.
