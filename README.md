@@ -26,10 +26,10 @@ I contributed to a public comments management and engagement platform, where I h
 Before that, I gained hands-on experience with PHP (CodeIgniter), WordPress, OpenCart, and MySQL where I built ERP systems, hospital management platforms, and dynamic websites. My role as an IT Faculty at NIIT also strengthened my communication and mentoring skills, making me comfortable in both technical execution and knowledge sharing.
 
 Key highlights of my profile include:
-✔ Strong problem-solving ability with excellent troubleshooting skills.
-✔ Full software development lifecycle experience – from concept to deployment.
-✔ Expertise in relational databases like MySQL, MariaDB, and MSSQL.
-✔ Solid background in legacy modernization projects (AngularJS to newer frameworks, CFML upgrades, etc.).
+✔ Strong problem-solving ability with excellent troubleshooting skills.<br>
+✔ Full software development lifecycle experience – from concept to deployment.<br>
+✔ Expertise in relational databases like MySQL, MariaDB, and MSSQL.<br>
+✔ Solid background in legacy modernization projects (AngularJS to newer frameworks, CFML upgrades, etc.).<br>
 ✔ Proven client collaboration experience ensuring projects are delivered on time and meet expectations.
 
 My approach is detail-oriented, reliable, and focused on delivering cost-effective, high-quality solutions tailored to client needs.
