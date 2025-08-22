@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a skilled Software Engineer with over a decade of experience in end-to-end software development, API integration, and web application design.With a PGD+MBA in Information Technology Management and a Bachelor’s degree in Engineering (ECE), I bring both technical expertise and business-oriented thinking to every project.
+
+I specialize in creating scalable, efficient, and user-friendly applications using technologies such as PHP, CodeIgniter, ColdFusion (CFML), AngularJS, VueJS, and JavaScript.
+Throughout my career, I’ve worked on diverse projects, from building API-driven enterprise solutions to designing custom CRM applications and campaign management systems.I have developed and structured APIs integrated them with MSSQL, and participated in direct client meetings to ensure smooth communication and delivery.
+
+I have also created APIs using ColdBox and built a complete frontend CRM application using AngularJS, HTML, and jQuery.
+
+I contributed to a public comments management and engagement platform, where I handled campaign modules and user interaction workflows with CFML, HTML, and CSS.
+
+Before that, I gained hands-on experience with PHP (CodeIgniter), WordPress, OpenCart, and MySQL where I built ERP systems, hospital management platforms, and dynamic websites. My role as an IT Faculty at NIIT also strengthened my communication and mentoring skills, making me comfortable in both technical execution and knowledge sharing.
+
+Key highlights of my profile include:
+✔ Strong problem-solving ability with excellent troubleshooting skills.
+✔ Full software development lifecycle experience – from concept to deployment.
+✔ Expertise in relational databases like MySQL, MariaDB, and MSSQL.
+✔ Solid background in legacy modernization projects (AngularJS to newer frameworks, CFML upgrades, etc.).
+✔ Proven client collaboration experience ensuring projects are delivered on time and meet expectations.
+
+My approach is detail-oriented, reliable, and focused on delivering cost-effective, high-quality solutions tailored to client needs.
+
+I’m confident that my combination of technical skills, project experience, and collaborative work style will allow me to add real value to your project.
