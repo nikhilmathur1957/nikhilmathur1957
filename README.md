@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a skilled Software Engineer with over a decade of experience in end-to-end software development, API integration, and web application design.With a PGD+MBA in Information Technology Management and a Bachelor’s degree in Engineering (ECE), I bring both technical expertise and business-oriented thinking to every project.
 
-I specialize in creating scalable, efficient, and user-friendly applications using technologies such as PHP, CodeIgniter, ColdFusion (CFML), AngularJS, VueJS, and JavaScript.
+I specialize in creating scalable, efficient, and user-friendly applications using technologies such as Python, PHP, CodeIgniter, ColdFusion (CFML), AngularJS, VueJS, React, and NodeJS.
 Throughout my career, I’ve worked on diverse projects, from building API-driven enterprise solutions to designing custom CRM applications and campaign management systems.I have developed and structured APIs integrated them with MSSQL, and participated in direct client meetings to ensure smooth communication and delivery.
 
 I have also created APIs using ColdBox and built a complete frontend CRM application using AngularJS, HTML, and jQuery.
