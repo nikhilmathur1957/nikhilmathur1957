@@ -31,5 +31,3 @@ Key highlights of my profile include:<br>
 ✔ Expertise in relational databases like MySQL, MariaDB, and MSSQL.<br>
 ✔ Solid background in legacy modernization projects (AngularJS to newer frameworks, CFML upgrades, etc.).<br>
 ✔ Proven client collaboration experience ensuring projects are delivered on time and meet expectations.
-
-My approach is detail-oriented, reliable, and focused on delivering cost-effective, high-quality solutions tailored to client needs.
